@@ -14,7 +14,15 @@ make
 ```
 
 Execute : 
+
+On Linux
 ```
+./release_build/OpenGLTriangle 
+```
+
+On MacOS
+```
+./release_build/OpenGLTriangle.app/Contents/MacOS/OpenGLTriangle 
 ```
 
 
