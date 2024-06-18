@@ -1,5 +1,9 @@
 QT += core gui widgets opengl
 
+greaterThan(QT_VERSION, 6){
+   QT += openglwidgets
+}
+
 CONFIG += c++11
 
 TARGET = OpenGLTriangle
